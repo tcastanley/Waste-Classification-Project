@@ -17,7 +17,7 @@ The project overall went very well, with my final CNN model reaching an accuracy
 with pre-trained models to serve as benchmarks.  I chose three models: VGG16, VGG19, & Xception with each of them scoring
 86%, 86%, and 91% respectively. 
 
-### Sample Visualizations
+## Sample Visualizations
 
 ### MLP Base Performance
 
