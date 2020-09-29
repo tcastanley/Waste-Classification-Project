@@ -9,12 +9,12 @@ Recyclable waste.
 
 ### Approach
 My approach was to initially create a Multilayer Perceptron (MLP) and input the images as column vectors directly to establish
-a baseling model.  Afterwards, I wanted to try my hand out at building my own Convolutional Neural Network (CNN) to see
+a baseline model.  Afterwards, I wanted to try my hand out at building my own Convolutional Neural Network (CNN) to see
 if I could improve upon the initial results from my MLP model.  
 
 ### Summary
-The project overall went very well, with my final model reaching an accuracy of ~91%.  These results were then compared
-with pre-trained models to serve as benchmarks.  I chose three models, VGG16, VGG19, & Xception with each of them scoring
+The project overall went very well, with my final CNN model reaching an accuracy of **~91%**.  These results were then compared
+with pre-trained models to serve as benchmarks.  I chose three models: VGG16, VGG19, & Xception with each of them scoring
 86%, 86%, and 91% respectively. 
 
 ### Sample Visualizations
